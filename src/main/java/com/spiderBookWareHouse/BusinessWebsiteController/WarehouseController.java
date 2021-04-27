@@ -1,9 +1,11 @@
 package com.spiderBookWareHouse.BusinessWebsiteController;
 
-public class warehoushecontroller {
+public class WarehouseController {
 
     public void book()
     {
         System.out.println("getted all books");
+        System.out.println("getted all books");
+
     }
 }
