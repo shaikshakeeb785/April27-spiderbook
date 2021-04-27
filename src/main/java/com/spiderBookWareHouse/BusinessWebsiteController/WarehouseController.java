@@ -1,6 +1,6 @@
 package com.spiderBookWareHouse.BusinessWebsiteController;
 
-public class warehoushecontroller {
+public class WarehouseController {
 
     public void book()
     {
