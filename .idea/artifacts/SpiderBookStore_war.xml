@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SpiderBookStore:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpiderBookStore_war</output-path>
+    <root id="archive" name="SpiderBookStore_war.war">
+      <element id="artifact" artifact-name="SpiderBookStore:war exploded" />
+    </root>
+  </artifact>
+</component>

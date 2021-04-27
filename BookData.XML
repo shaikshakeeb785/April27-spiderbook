@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bookList>
+    <lstBook>
+        <bookId>spiderBookId_-485448072</bookId>
+        <bookName>KalPanChawla</bookName>
+        <bookAuthor>kr Martin</bookAuthor>
+        <bookPrice>6475.0</bookPrice>
+        <bookPublishDate>1990</bookPublishDate>
+        <sellerName>spiderBookStore</sellerName>
+        <publication>Ahmed</publication>
+    </lstBook>
+    <lstBook>
+        <bookId>spiderBookId_-554273428</bookId>
+        <bookName>Modi ji</bookName>
+        <bookAuthor>santosh Modi</bookAuthor>
+        <bookPrice>4.7689654E7</bookPrice>
+        <bookPublishDate>2015</bookPublishDate>
+        <sellerName>spiderBookStore</sellerName>
+        <publication>santoPublisher</publication>
+    </lstBook>
+    <lstBook>
+        <bookId>spiderBookId_-670677948</bookId>
+        <bookName>TippuSultan</bookName>
+        <bookAuthor>RahatAliSab</bookAuthor>
+        <bookPrice>656.56</bookPrice>
+        <bookPublishDate>1980</bookPublishDate>
+        <sellerName>spiderBookStore</sellerName>
+        <publication>mrJacob</publication>
+    </lstBook>
+    <lstBook>
+        <bookId>spiderBookId_1068991552</bookId>
+        <bookName>AmbetKar</bookName>
+        <bookAuthor>Ramlu</bookAuthor>
+        <bookPrice>65845.0</bookPrice>
+        <bookPublishDate>1970</bookPublishDate>
+        <sellerName>spiderBookStore</sellerName>
+        <publication>ManojTiwari</publication>
+    </lstBook>
+    <lstBook>
+        <bookId>spiderBookId_1893886397</bookId>
+        <bookName>MahatmaGandhi</bookName>
+        <bookAuthor>Agharwal</bookAuthor>
+        <bookPrice>7658658.0</bookPrice>
+        <bookPublishDate>1989</bookPublishDate>
+        <sellerName>spiderBookStore</sellerName>
+        <publication>mrJacob</publication>
+    </lstBook>
+</bookList>
